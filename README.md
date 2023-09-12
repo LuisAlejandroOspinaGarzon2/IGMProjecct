@@ -1,4 +1,4 @@
-# IGMProjecct
+# IGMProject
 This is a test to see my programming skills
 
 1.Clone the repository:
