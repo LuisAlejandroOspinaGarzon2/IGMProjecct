@@ -1,6 +1,8 @@
 # IGMProject
 This is a test to see my programming skills
+Project Description: The project includes REST endpoints for generating HTML content and accessing data from a third-party API. It also features a custom annotation and aspect for handling retry mechanisms.
 
+You should be able to run it following these steps.
 1.Clone the repository:
 git clone https://github.com/LuisAlejandroOspinaGarzon2/IGMProjecct.git
 
